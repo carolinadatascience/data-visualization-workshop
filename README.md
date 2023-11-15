@@ -1,6 +1,6 @@
 <h1 align="center">Data Visualization Workshop</h1>
 
-<p align="center"><b><i>Created by @<juliabarrow!!> and @<sneha-jaikumar!!> for Carolina Analytics and Data Science on [[November 15th, 2023]]</b></i></p>
+<p align="center"><b><i>Created by @<juliabarrow> and @<sneha-jaikumar> for Carolina Analytics and Data Science on November 15th, 2023</b></i></p>
 
  
 Here, please provide a **detailed**, *high quality* description of your workshop. Please include markdown formatting such as bold and italics to accentuate certain points. If you are unaware about how markdown formatting works, check out this [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/).
