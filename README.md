@@ -21,4 +21,4 @@ If you are not familiar with how to use GitHub, using **GitHub Desktop** is an e
 
 ### Download the Data
 
-This section is optional, however it is needed when you have large datasets that must either be downloaded or accessed and is not already included in the repository. Provide a description of the dataset, a link to it, and attribution here.
+Download the ages.csv file (ideally to your Google Drive).
