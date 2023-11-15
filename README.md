@@ -3,27 +3,15 @@
 <p align="center"><b><i>Created by @juliabarrow and @sneha-jaikumar for Carolina Analytics and Data Science on November 15th, 2023</b></i></p>
 
  
-Here, please provide a **detailed**, *high quality* description of your workshop. Please include markdown formatting such as bold and italics to accentuate certain points. If you are unaware about how markdown formatting works, check out this [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/).
+This is an introductory data visualization workshop where we'll go through best practices and examples created from various tools, and then look at a coding example with Python.
 
 ## Getting Started
 
-This section is a very important section. Please include this and write a good, easy-to-follow description of how to get started with and download the necessary tools for this workshop. (DELETE THIS LINE).
-
-Here are some of the things you must do to get started with this workshop:
+The easiest way to follow along with this workshop is to work directly in google colab [here](https://colab.research.google.com/drive/1ejC0s9R0zFpnRPDCfGnjxw4OL93K0at5?usp=sharing).
 
 ### Software Prerequisites
 
-In this section, include necessary software that needs to be installed. This includes the Python programming language, Jupyter, R Studio, etc. Here are some example sentences to keep in your file:
-
 - **This workshop uses the Python programming language.** If you do not already have Python installed on your computer, install the latest version for your operating system [here](https://www.python.org/downloads/).
-
-- **This workshop uses the R programming language.** If you do not already have R installed on your computer, install the latest version for your operating system [here](https://cloud.r-project.org).
-
-- This workshop will also use JupyterLab to run Jupyter Notebooks (with Python). Learn how to install JupyterLab [here](https://jupyter.org/install).
-
-- This workshop will also use RStudio to run R files. Learn how to install RStudio [here](https://posit.co/download/rstudio-desktop/).
-
-*Make sure to include any other software necessary for your workshop. **THIS INCLUDES PACKAGES!!!***
 
 ### Clone this Repository
 
@@ -34,7 +22,3 @@ If you are not familiar with how to use GitHub, using **GitHub Desktop** is an e
 ### Download the Data
 
 This section is optional, however it is needed when you have large datasets that must either be downloaded or accessed and is not already included in the repository. Provide a description of the dataset, a link to it, and attribution here.
-
-## Content Section
-
-Feel free to add anything you feel to be important in this section. This could be nothing, although you are encouraged you add explanations here if needed!
